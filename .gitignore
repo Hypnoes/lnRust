@@ -2,3 +2,6 @@ target
 
 /target
 **/*.rs.bk
+
+.vscode
+.vscode/
